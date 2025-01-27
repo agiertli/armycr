@@ -85,6 +85,6 @@ document_outline: |
   Seznam tanků, které má armáda ČR k dispozici
 document:
   repo: https://github.com/agiertli/armycr
-  commit: 49e0b055d544447154c1b83581a6ad2a87a3b480
+  commit: 7dfd7a7705ecba978ad72750c0242b57f46bb55b
   patterns:
     - data.md
