@@ -84,7 +84,7 @@ seed_examples:
 document_outline: |
   Seznam tanků, které má armáda ČR k dispozici
 document:
-  repo: https://github.com/juliadenham/Summit_knowledge
-  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  repo: https://github.com/agiertli/armycr
+  commit: 6d75871ddc154505bc89403606c8a33b2f9b2e4b
   patterns:
-    - phoenix_constellation.md
+    - data.md
